@@ -5,8 +5,10 @@
 }
 
 .cabecalho-titulo{
-    color:blueviolet;
-    font-weight:800;
+    font-size: 3rem;
+    color: black;
+    line-height: 1.2;
+    margin-bottom: 20px;
 }
 
 .cabecalho-menu{
